@@ -10,7 +10,7 @@ The Dataset has been taken from sources like kaggle, http://collection-online.mo
 # Model Performance 
 This is the final model that yielded the highest accuracy:
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param   
 =================================================================
 input_1 (InputLayer)         [(None, 224, 224, 3)]     0         
 _________________________________________________________________
