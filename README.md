@@ -20,7 +20,11 @@ Training Accuracy:
 
 
 
-Evaluation(Test)Accuracy:![test](https://user-images.githubusercontent.com/47889475/98120623-31108b80-1ed4-11eb-88df-66043eed9883.JPG)
+Evaluation(Test)Accuracy:
+
+
+
+![test](https://user-images.githubusercontent.com/47889475/98120623-31108b80-1ed4-11eb-88df-66043eed9883.JPG)
 
 
 
