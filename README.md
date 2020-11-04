@@ -20,6 +20,8 @@ Training Accuracy:
 
 
 
+
+
 Evaluation(Test)Accuracy:
 
 
@@ -30,12 +32,24 @@ Evaluation(Test)Accuracy:
 
 
 Classification Metrics
+
+
+
+
 ![classification_metrics](https://user-images.githubusercontent.com/47889475/98120635-34a41280-1ed4-11eb-98c9-c01bc084365b.JPG)
 
 
 
 
+
+
+
 Confusion Matrix
+
+
+
+
+
 ![Confusion_Matrix](https://user-images.githubusercontent.com/47889475/98120642-37066c80-1ed4-11eb-974c-e03311bb670f.JPG)
 
 
